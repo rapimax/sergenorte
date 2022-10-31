@@ -96,8 +96,8 @@
     .wcs_fixed_right{
         z-index: 999;
         position: fixed;
-        bottom: 20px;
-        right: 20px;
+        bottom: 50px;
+        right: 40px;
     }
 
     .wcs_fixed_left{

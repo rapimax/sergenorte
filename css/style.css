@@ -52,6 +52,12 @@ html {
       }
 }
 
+.wsp{
+     margin-right: 30px !important;
+     width: 80px !important;
+     height: 80px !important;
+}
+
 body {
      color: #666666;
      font-size: 14px;

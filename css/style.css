@@ -42,6 +42,16 @@ html {
      scroll-behavior: smooth;
 }
 
+@media screen and (max-width:600px) {
+     .header_bottom{
+          height: 85px !important;
+     }
+     .build_box {
+          text-align: left;
+          padding-top: 26% !important;
+      }
+}
+
 body {
      color: #666666;
      font-size: 14px;
